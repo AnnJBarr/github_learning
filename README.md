@@ -1,0 +1,1 @@
+An edit made during the Git training session.
